@@ -1,1 +1,1 @@
-# projeto-de-vida--javascrips
+# projeto-de-vida--javascript
